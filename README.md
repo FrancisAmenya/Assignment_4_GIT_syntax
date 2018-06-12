@@ -23,8 +23,8 @@ Allow me to list only a few highights:
 
 Our home is (https://www.africa.com)  
 Alternate links are:  
-+[Africa web site](https://www.africa.com)
-+[Africa web site][1]
++ [Africa web site](https://www.africa.com "Africa.com Official website")
++ [Africa web site][1]
 
 
 [1]: https://www.africa.com
