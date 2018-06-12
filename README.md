@@ -20,6 +20,7 @@ Allow me to list only a few highights:
 - The weather is magical.
 - The citizens are friendly.
 
+---
 
 Our home is <https://www.africa.com>  
 Alternate links are:
@@ -31,9 +32,13 @@ Alternate links are:
 
 ![African tribal mask](/images/tribal_mask_XXL.jpg)
 
+***
+
 ![African fashion][pic1]
 
 [pic1]: /images/fashion_XXL.jpg "logo"
+
+___
 
 <img src="/images/silhouette_XXL.jpg" width="100" height="80"/>
 
