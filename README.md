@@ -30,15 +30,20 @@ Alternate links are:
 
 [1]: https://www.africa.com
 
+---
+###### Our premiere art forms 
 ![African tribal mask](/images/tribal_mask_XXL.jpg)
 
 ***
-
+###### Here is an example  of our fashion  
 ![African fashion][pic1]
 
 [pic1]: /images/fashion_XXL.jpg "logo"
 
 ___
-
+###### Here is a small sunset  
 <img src="/images/silhouette_XXL.jpg" width="100" height="80"/>
+
+
+
 
