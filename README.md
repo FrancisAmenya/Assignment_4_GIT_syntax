@@ -14,9 +14,17 @@ Here are the reasons why:
 5. Bruh is dope. 
 6. Home is Africa.  
 
-There are even more reasons why home is amazing.  
+###### There are even more reasons why home is amazing.
 Allow me to list only a few highights: 
 - Our economy is sustainable.
 - The weather is magical.
 + The citizens are friendly.
+
+
+Our home is (https://www.africa.com)
+alternate links are [Africa web site][1]
+
+
+[1]: https://www.africa.com
+
 
