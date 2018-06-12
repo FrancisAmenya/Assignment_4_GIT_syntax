@@ -32,13 +32,12 @@ Alternate links are:
 
 ---
 ###### Our premiere art forms 
-![African tribal mask](/images/tribal_mask_XXL.jpg)
+![African tribal mask](/images/tribal_mask_XXL.jpg "Our premiere art forms")
 
 ***
-###### Here is an example  of our fashion  
-![African fashion][pic1]
-
-[pic1]: /images/fashion_XXL.jpg "logo"
+###### Our fashion  
+![African fashion][pic1]  
+[pic1]: /images/fashion_XXL.jpg "Our fashion"
 
 ___
 ###### Here is a small sunset  
