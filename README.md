@@ -49,12 +49,28 @@ ___
 
 ---
 
-
 ##### Home Scandal Chart
-
 |Country|`Age`|Currency|Pay|
 |---|---|---|---|
 |Kenya|65|Kshs|**Bn. 912.21**|
 |Nigeria|23|Naira|**Bn. 236.01**|
 
+<dl>
+  <dt>Kenya 2018</dt>
+  <dd>Kshs 912.21 lost</dd>
+  <dd> <em> Shillings is the Kenyan currency. </em> </dd>
+  
+  <dt>Nigeria</dt>
+  <dd>Naira Bn. 236.01 lost</dd>
+  <dd> <em> Naira is the Nigerian currency. </em> </dd>
+</dl>
 
+***
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/gcgPRmLPPqw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=gcgPRmLPPqw" target="_blank"><img src="http://img.youtube.com/vi/gcgPRmLPPqw/0.jpg" 
+alt="African Music" width="240" height="180" border="10" /></a>
+
+gcgPRmLPPqw
