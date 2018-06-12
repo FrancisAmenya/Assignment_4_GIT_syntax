@@ -4,8 +4,8 @@ Just a few tricks
 ---------------------------
 
 
-Home is the best place to be, *East* or **West**, even **_North_** or *_South_*. ~~Obviously~~.
-Here are the reasons why:
+> Home is the best place to be, *East* or **West**, even **_North_** or *_South_*. ~~Obviously~~.
+> Here are the reasons why:
 
 1. `Home` always has food. 
 2. `Dad` is funny. 
@@ -23,8 +23,8 @@ Allow me to list only a few highights:
 
 ---
 
-Our home is <https://www.africa.com>  
-Alternate links are:
+> Our home is <https://www.africa.com>  
+> Alternate links are:
 + [Africa web site](https://www.africa.com "Africa.com Official website")
 + [Africa web site][1]
 + <a href="https://www.africa.com" target="https://www.africa.com">Africa web site home page!</a>
