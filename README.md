@@ -21,12 +21,19 @@ Allow me to list only a few highights:
 - The citizens are friendly.
 
 
-Our home is (https://www.africa.com)  
-Alternate links are:  
+Our home is <https://www.africa.com>  
+Alternate links are:
 + [Africa web site](https://www.africa.com "Africa.com Official website")
 + [Africa web site][1]
-
++ <a href="https://www.africa.com" target="https://www.africa.com">Africa web site home page!</a>
 
 [1]: https://www.africa.com
 
+![alt text](IMG_20180101_134539.jpg)
+
+![alt text][logo]
+
+[logo]: IMG_20180101_134539.jpg "logo"
+
+<img src="IMG_20180101_134539.jpg" width="100" height="80"/>
 
