@@ -1,5 +1,5 @@
 # GITHUB ASSIGNMENT 4 Markdown Syntax
-
+### Africa
 Just a few tricks
 ---------------------------
 
@@ -18,11 +18,13 @@ Here are the reasons why:
 Allow me to list only a few highights: 
 - Our economy is sustainable.
 - The weather is magical.
-+ The citizens are friendly.
+- The citizens are friendly.
 
 
-Our home is (https://www.africa.com)
-alternate links are [Africa web site][1]
+Our home is (https://www.africa.com)  
+Alternate links are:  
++[Africa web site](https://www.africa.com)
++[Africa web site][1]
 
 
 [1]: https://www.africa.com
