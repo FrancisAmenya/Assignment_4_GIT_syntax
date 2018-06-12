@@ -29,10 +29,11 @@ Alternate links are:
 
 [1]: https://www.africa.com
 
-![alt text](/images/tribal_mask_XXL.jpg.jpg)
+![African tribal mask](/images/tribal_mask_XXL.jpg)
 
-![alt text][logo]
-[logo]: /images/fashion_XXL.jpg "logo"
+![African fashion][pic1]
+
+[pic1]: /images/fashion_XXL.jpg "logo"
 
 <img src="/images/silhouette_XXL.jpg" width="100" height="80"/>
 
