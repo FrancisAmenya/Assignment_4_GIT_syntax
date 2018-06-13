@@ -8,11 +8,11 @@ Just a few tricks
 > Here are the reasons why:
 
 1. `Home` always has food. 
-2. `Dad` is funny. 
-3. Mom is awesome. 
-4. `Suh` is real. 
-5. ``Bruh`` is dope. 
-6. Home is Africa.  
+2. `Dad is funny`. 
+3. `Mom is awesome`. 
+4. `Suh is real`. 
+5. `Bruh is dope`. 
+6. `Home is Africa`.  
 
 ###### There are even more reasons why home is amazing.
 Allow me to list only a few highights: 
@@ -23,11 +23,10 @@ Allow me to list only a few highights:
 
 ---
 
-> Our home is <https://www.africa.com>  
-> Alternate links are:
-+ [Africa web site](https://www.africa.com "Africa.com Official website")
-+ [Africa web site][1]
-+ <a href="https://www.africa.com" target="https://www.africa.com">Africa web site home page!</a>
+> Our home is <https://www.africa.com> and alternate links are:
+ + [Africa web site](https://www.africa.com "Africa.com Official website")
+    + [Africa web site][1]
+       + <a href="https://www.africa.com" target="https://www.africa.com">Africa web site home page!</a>
 
 [1]: https://www.africa.com
 
@@ -71,3 +70,7 @@ ___
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gcgPRmLPPqw" target="_blank"><img src="http://img.youtube.com/vi/gcgPRmLPPqw/0.jpg" 
 alt="African Music" width="240" height="180" border="10" /></a>
 
+```
+Africa is magical...plain and simple
+edited by graffitiaddikt
+```
