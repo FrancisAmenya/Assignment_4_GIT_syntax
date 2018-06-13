@@ -1,6 +1,6 @@
 # GITHUB ASSIGNMENT 4 Markdown Syntax
-### Africa
-Just a few tricks
+## Africa :relieved:
+Just a few tricks :stuck_out_tongue_closed_eyes:
 ---------------------------
 
 
@@ -43,12 +43,12 @@ Allow me to list only a few highights:
 
 
 ___
-###### A small flower  
+###### A small flower :kissing_heart:  
 <img src="/images/silhouette_XXL.jpg" width="100" height="80" alt="A small flower "/>
 
 ---
 
-##### Home Scandal Chart
+##### Home Scandal Chart :yum:
 |Country|`Age`|Currency|Pay|
 |---|---|---|---|
 |Kenya|65|Kshs|**Bn. 912.21**|
@@ -75,8 +75,11 @@ alt="African Music" width="240" height="180" border="10" /></a>
 - [x] Amazing music
 - [x] Magical art
 - [ ] Extincted culture
+- [x] Crazy innovations
+- [ ] Missing pizza
 
-sometimes \* Africa \* cannot \\\\****be bold*** 
+sometimes \* Africa \* cannot \\\\**be bolder*
+other times \* Kenya can be better
 
 ```
 Africa is magical...plain and simple
