@@ -70,6 +70,14 @@ ___
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gcgPRmLPPqw" target="_blank"><img src="http://img.youtube.com/vi/gcgPRmLPPqw/0.jpg" 
 alt="African Music" width="240" height="180" border="10" /></a>
 
+### Here is a quick summary
+
+- [x] Amazing music
+- [x] Magical art
+- [ ] Extincted culture
+
+sometimes \* Africa \* cannot \\\\****be bold*** 
+
 ```
 Africa is magical...plain and simple
 edited by graffitiaddikt
